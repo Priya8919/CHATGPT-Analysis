@@ -2,8 +2,7 @@
 This project analyzes user reviews of the ChatGPT app to uncover patterns in user satisfaction, sentiment trends, and common complaints. It combines data cleaning, exploratory analysis, sentiment analysis, and visualization using Python.
  
  Project Structure
-
- 📦 chatgpt-review-analysis/
+ 
 ├── chatgpt_reviews.csv      
 ├── review_analysis.ipynb     
 ├── sentiment_analysis.py     
